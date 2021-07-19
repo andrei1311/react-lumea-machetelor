@@ -14,10 +14,10 @@ function About() {
                     </div>
                     <div className="col-12 col-md-6">
                         <h3 className="mb-3">
-                            Bine ai venit pe site-ul meu.
+                            Bine ai venit pe site-ul meu!
                         </h3>
                         <p>
-                         Salut, eu sunt Andrei Agrigoroaie, am 32 de ani, iar 13 ani am lucrat in vanzari. Am urmat o facultate de Marketing si sigur acum te intrebi ce legatura au toate acestea web design-ul. <br></br>
+                         Salut, eu sunt Andrei , am 32 de ani, iar 13 ani am lucrat in vanzari. Am urmat o facultate de Marketing si sigur acum te intrebi ce legatura au toate acestea web design-ul. <br></br>
                             Cum am ajuns sa fac web-design?
                         </p>
                         <p>
@@ -27,9 +27,6 @@ function About() {
                         <p>
                             Acesta este primul meu "mare proiect" si cu siguranta nu ultimul, intrucat deja sunt multe pe lista care asteapta sa fie realizate in cel mai profesionist si atractiv mod posibil. <br></br>
                             In cazul in care iti place lucrarea mea astept un feedback-ul tau la adresa <strong><a href="mailto:andrei.agrigoroaie@gmail.com">andrei.agrigoroaie@gmail.com</a></strong>
-                        </p>
-                        <p>
-                            Iti multumesc pentru accesarea site-ului meu!
                         </p>
                     </div>
                </div>
