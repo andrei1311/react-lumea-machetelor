@@ -1,0 +1,36 @@
+.product-page .image-wrapper {
+    width: 500px;
+    height: 400px;
+    justify-content: center;
+}
+
+.product-page .image-wrapper img {
+    height: 100%;
+    width: 400px;
+    object-fit: contain;
+}
+
+.heart {
+    margin-left: 200px;
+}
+@media (max-width: 768px) {
+    .product-page .image-wrapper {
+        width: 100%;
+        height: auto;
+        justify-content: start;
+    }
+
+    .product-page .image-wrapper img {
+        width: 100%;
+        height: auto;
+    }
+
+    .product-page .product-info {
+        flex-direction: column;
+    }
+
+    .product-page .product-details {
+        margin-top: 1.5rem;
+        text-align: center;
+    }
+}

@@ -39,8 +39,8 @@
             }
         ],
         "image": "https://i.imgur.com/V9UqKz0.jpg",
-        "name": "1:43",
-        "description": "Machete 1:43"
+        "name": "Machete 1:43",
+        "description": "Ikarus, Ferrari, Renault"
     },
     "1:32": {
         "items": [
@@ -94,8 +94,8 @@
             }
         ],
         "image": "https://i.imgur.com/Yx38nIJ.jpg",
-        "name": "1:36",
-        "description": "Machete 1:36"
+        "name": "Machete 1:36",
+        "description": "Land Rover, Chevy, Nissan"
     },
     "1:24": {
         "items": [
@@ -125,8 +125,8 @@
             }
         ],
         "image": "https://i.imgur.com/KcHNzAR.jpg",
-        "name": "1:24",
-        "description": "Machete 1:24"
+        "name": "Machete 1:24",
+        "description": "DeLorean-Back to the Future"
     },
     "1:18": {
         "items": [
@@ -152,12 +152,12 @@
                 "colour": "bej cu maro deschis",
                 "material": "Macheta este fabricata din metal cu mici parti din plastic",
                 "brand": "BoS Models",
-                "description": "Tricou de ping pong cu imprimeu cu dragon, purtat de jucatorii naționalei chinei în 2013."
+                "description": "Dodge Eight DG Coupe, 1931, machete auto, scara 1:18, bej cu maro deschis, varianta sealed body, BoS Models"
             }
         ],
         "image": "https://i.imgur.com/cjvBd9h.jpg",
-        "name": "1:18",
-        "description": "Machete 1:18"
+        "name": "Machete 1:18",
+        "description": "Dodge, Mercedes-Benz"
     },
     "1:8": {
         "items": [
@@ -187,7 +187,7 @@
             },
             {
                 "id": 14,
-                "name": "Tricou original BVB cu autograf",
+                "name": "Citroën 2CV Charleston",
                 "price": 4399,
                 "currency": "LEI",
                 "image": "https://i.imgur.com/khs1Ldg.jpg",
@@ -199,8 +199,8 @@
             }
         ],
         "image": "https://i.imgur.com/DrYvP6x.jpg",
-        "name": "1:8",
-        "description": "Machete 1:8"
+        "name": "Machete 1:8",
+        "description": "Fiat, Renault, Citroën"
     },
     "accesories": {
         "items": [

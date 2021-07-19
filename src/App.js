@@ -2,14 +2,15 @@ import React from 'react';
 import './App.css';
 import { Switch, Route } from "react-router-dom";
 import Home from './pages/Home';
-import About from './pages/About';
-import Login from './pages/Login';
+import About from './pages/About/About';
+import Login from './pages/Login/Login';
 import Page404 from './pages/Page404';
 import Category from './pages/Category';
-import Cart from './pages/Cart';
+import Cart from './pages/Cart/Cart';
+import Favorites from './pages/Favorites/Favorites';
+import Terms from './pages/Terms';
 import './utils/utility-classes.css';
-// Importam si pagina de produs.
-import Product from './pages/Product';
+import Product from './pages/Product/Product';
 
 function App() {
   return(
@@ -18,9 +19,10 @@ function App() {
         <Route path="/login" component={Login}/>
         <Route exact path="/" component={Home}/>
         <Route path="/cart" component={Cart}/>
+        <Route path="/favorites" component={Favorites} />
         <Route path="/about" component={About}/>
+        <Route path="/terms" component={Terms} />
         <Route path="/category/:categoryName" component={Category}/>
-        {/* Instantiem ruta pentru pagina de produs */}
         <Route path="/product/:productId" component={Product}/>
         <Route path="*" component={Page404}/>
       </Switch>

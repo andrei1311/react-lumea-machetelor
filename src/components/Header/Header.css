@@ -1,0 +1,25 @@
+.header {
+    top: 0;
+    z-index: 100;
+    background-color: white;
+}
+
+header p, Link {
+    color: black;    
+}
+
+
+header .logo {
+    width: 150px;
+    height: auto;
+}
+
+header .logout:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.empty-heart {
+    width: 30px;
+    height: 30px;
+}
