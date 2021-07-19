@@ -1,4 +1,4 @@
-Magazinul online react-zenmellow-shop este cel de-al doilea proiect din cadrul cursului JavaScript Advanced - React, predat online pe site-ul Telecom Academy. Cursul este continuarea celui de JavaScript Fundamentals.
+Magazinul online react-lumea-machetelor este cel de-al doilea proiect din cadrul cursului JavaScript Advanced - React, predat online pe site-ul Telecom Academy. Cursul este continuarea celui de JavaScript Fundamentals.
 
 Functionalitati
 Click pe orice categorie - va lista produsele corespunzatoare
