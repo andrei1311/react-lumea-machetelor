@@ -17,11 +17,11 @@ function About() {
                             Bine ai venit pe site-ul meu!
                         </h3>
                         <p>
-                         Salut, eu sunt Andrei , am 32 de ani, iar 13 ani am lucrat in vanzari. Am urmat o facultate de Marketing si sigur acum te intrebi ce legatura au toate acestea web design-ul.
+                         Salut, eu sunt Andrei, am 32 de ani, iar 13 ani am lucrat in vanzari. Am urmat o facultate de Marketing si sigur acum te intrebi ce legatura au toate acestea cu web design-ul.
                         </p>
 
                         <p>
-                            <strong>Cum am ajuns sa fac web-design?</strong>
+                            <strong>Cum am ajuns sa fac webdesign?</strong>
                         </p>
 
                         <p>
@@ -33,7 +33,7 @@ function About() {
                             Acesta este primul meu "mare proiect" si cu siguranta nu ultimul, intrucat deja sunt multe pe lista care asteapta sa fie realizate in cel mai profesionist si atractiv mod posibil.
                         </p>
                         <p>
-                            In cazul in care iti place lucrarea mea astept feedback-ul tau la adresa <strong><a href="mailto:andrei.agrigoroaie@gmail.com">andrei.agrigoroaie@gmail.com</a></strong>
+                            In cazul in care iti place lucrarea mea, astept feedback-ul tau la adresa <strong><a href="mailto:andrei.agrigoroaie@gmail.com">andrei.agrigoroaie@gmail.com.</a></strong>
                         </p>
                     </div>
                </div>

@@ -7,7 +7,7 @@ function Terms() {
             <div className="container">
                 <h1 className="mb-3">Termeni și condiții</h1>
                 <p>
-                    Acesta este un site demonstartiv de tip e-commerce.
+                    Acesta este un site demonstrativ de tip e-commerce.
                 </p>
                 <p>
                     Vă rugăm să citiți acești termeni și condiții cu atenție
